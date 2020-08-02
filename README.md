@@ -1,0 +1,1 @@
+# Reducing-Color-Palette-Project
